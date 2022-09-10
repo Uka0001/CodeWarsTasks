@@ -18,8 +18,6 @@ Constraints:
 All the integers of salary are unique.
 */
 
-import java.util.Arrays;
-
 public class Average {
     public static void main(String[] args) {
 

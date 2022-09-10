@@ -51,6 +51,7 @@ public class HammingWeight {
         HammingWeight hammingWeight = new HammingWeight();
         hammingWeight.hammingWeight(00000000000000000000000000001011);
     }
+
     public int hammingWeight(int n) {
         return Integer.bitCount(n);
     }

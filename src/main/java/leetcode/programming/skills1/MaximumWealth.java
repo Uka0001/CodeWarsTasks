@@ -49,9 +49,9 @@ n == accounts[i].length
 public class MaximumWealth {
     public int maximumWealth(int[][] accounts) {
         int maxWealth = 0;
-        for (int [] customer: accounts){
+        for (int[] customer : accounts) {
             int currentCustomerWelth = 0;
-            for (int bank: customer){
+            for (int bank : customer) {
                 currentCustomerWelth += bank;
             }
             maxWealth = Math.max(maxWealth, currentCustomerWelth);

@@ -6,13 +6,14 @@ public class BinarySearch {
         int high = nums.length - 1;
         return recursive(nums, low, high, target);
     }
+
     public int recursive(int[] nums, int low, int high, int target) {
-        if(low > high) return -1;
+        if (low > high) return -1;
         int mid = (low + high) / 2;
 
-        if(nums[mid] == target) return mid;
+        if (nums[mid] == target) return mid;
 
-        if(target > nums[mid]) return recursive(nums, mid + 1, high, target);
+        if (target > nums[mid]) return recursive(nums, mid + 1, high, target);
         else return recursive(nums, low, mid - 1, target);
     }
     //alternative decision from leet code;

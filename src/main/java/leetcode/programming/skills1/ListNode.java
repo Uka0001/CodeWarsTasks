@@ -25,12 +25,12 @@ class MiddleNode {
         ArrayList<ListNode> arrayList = new ArrayList<>();
 
         int length = 0;
-        while (head != null){
+        while (head != null) {
             arrayList.add(head);
             head = head.next;
             length++;
         }
-        return arrayList.get(length/2);
+        return arrayList.get(length / 2);
     }
     //time complexity = O(n);
     //space complexity = O(n);
