@@ -47,3 +47,9 @@ j
 :src/main/java/leetcode/programming/skills1/RansomNote.java,b/4/b469a567dcb32c0f22438d4633c7da65776744d8
 h
 8src/main/java/leetcode/programming/skills1/ListNode.java,9/8/98d80a9d86822f21b0da0a9dd7c6a2b02b70de83
+m
+=src/main/java/leetcode/programming/skills1/HammingWeight.java,a/2/a2e4f3e11722a3c9758f3c380f2e18460c8eba98
+h
+8src/main/java/leetcode/programming/skills1/GetLucky.java,3/6/36207b159a109630336bcda7a59abee2716549f5
+l
+<src/main/java/leetcode/programming/skills1/BinarySearch.java,a/1/a196e56a7357c6b1e92511870b344d27feba38f2
