@@ -1,2 +1,2 @@
 # CodeWarsTasks
-My solutions of the CodeWars tasks
+My solutions from the CodeWars and LeetCode tasks
