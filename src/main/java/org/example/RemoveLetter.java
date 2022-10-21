@@ -5,18 +5,17 @@ public class RemoveLetter {
         System.out.println(removeLetter("Reptile"));
     }
 
-    static char [] removeLetter (String input){
-        char [] charArray;
-        if (input.isEmpty()){
+    public static char[] removeLetter(String input) {
+        char[] charArray;
+        if (input == null) {
             charArray = new char[0];
         } else {
             charArray = input.toLowerCase().toCharArray();
-            for (int i = 0; i < charArray.length; i++){
-                if (charArray[i] == 'r'){
+            for (int i = 0; i < charArray.length; i++) {
+                if (charArray[i] == 'r') {
                     charArray[i] = '!';
                 }
             }
-
         }
         return charArray;
     }
