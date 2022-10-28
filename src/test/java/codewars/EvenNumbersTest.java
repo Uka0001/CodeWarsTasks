@@ -1,9 +1,9 @@
 package codewars;
 
 import codewars.kyu8.EvenNumbers;
-import codewars.kyu8.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+import static org.junit.Assert.assertArrayEquals;
 
 public class EvenNumbersTest {
     @Test

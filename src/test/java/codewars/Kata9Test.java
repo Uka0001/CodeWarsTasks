@@ -1,11 +1,11 @@
 package codewars;
 
 import codewars.kyu8.Invert;
-import codewars.kyu8.Test;
+import org.junit.Test;
 
 import java.util.Arrays;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class Kata9Test {
     @Test

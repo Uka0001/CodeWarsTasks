@@ -1,23 +1,23 @@
 package codewars;
 
 import codewars.kyu8.OppositesAttract;
-import codewars.kyu8.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class OppositesAttractTest {
 
-    @Test
+    @org.junit.Test
     public void testOddAndEven() {
         assertEquals(true, OppositesAttract.isLove(1, 4));
     }
 
-    @Test
+    @org.junit.Test
     public void testEvenAndEven() {
         assertEquals(false, OppositesAttract.isLove(2, 2));
     }
 
-    @Test
+    @org.junit.Test
     public void testOddAndOdd() {
         assertEquals(false, OppositesAttract.isLove(1, 1));
     }

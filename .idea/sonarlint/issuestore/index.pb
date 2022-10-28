@@ -53,3 +53,7 @@ h
 8src/main/java/leetcode/programming/skills1/GetLucky.java,3/6/36207b159a109630336bcda7a59abee2716549f5
 l
 <src/main/java/leetcode/programming/skills1/BinarySearch.java,a/1/a196e56a7357c6b1e92511870b344d27feba38f2
+u
+Esrc/main/java/leetcode/programming/skills1/SubtractProductAndSum.java,2/c/2cef93417b8586933dfa03e6c4c0b15506d88f1a
+m
+=src/main/java/leetcode/programming/skills1/ArrayReverser.java,a/b/abe085fe3b73f7a5c4d6e5e5e252ac489b9b3a5e

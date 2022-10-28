@@ -1,15 +1,15 @@
 package codewars;
 
 import codewars.kyu7.Printer;
-import codewars.kyu8.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
 
 class PrinterTest {
     @Test
     public void test() {
         System.out.println("printerError Fixed Tests");
-        String s="aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz";
+        String s = "aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz";
         assertEquals("3/56", Printer.printerError(s));
     }
 }

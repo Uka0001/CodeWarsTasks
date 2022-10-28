@@ -1,9 +1,9 @@
 package codewars;
 
 import codewars.kyu8.Opposite;
-import codewars.kyu8.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
 
 class KataTest {
     @Test
