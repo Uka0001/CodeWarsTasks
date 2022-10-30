@@ -105,3 +105,15 @@ W
 'src/main/java/codewars/kyu7/Vowels.java,c/a/ca1c0c4de00dd16a3eb2f6a0bc1cd4cc0da8765e
 [
 +src/test/java/codewars/kyu7/VowelsTest.java,7/2/72f58aad574a1378d59f9caa42410667f7ad17ed
+^
+.src/test/java/codewars/kyu8/EvenOrOddTest.java,8/1/817d8d3454f171c117b36cdbacb8fb292d42cee3
+Y
+)src/test/java/codewars/kyu7/KataTest.java,c/9/c9d9187982007c68fc800426c0dacc1b7d981734
+^
+.src/test/java/codewars/kyu8/Solution2Test.java,f/5/f5dc8337b3d19934781c00e72c5a7ad5071f46aa
+Z
+*src/main/java/codewars/kyu8/Solution2.java,4/3/4376bbde35d4aaf4086abf59b5940753235efd67
+Z
+*src/main/java/codewars/kyu8/EvenOrOdd.java,7/9/7981e800f974969eba217f2eab0d1966fc05b89d
+U
+%src/main/java/codewars/kyu7/Kata.java,4/6/461e543521ea31ccf837ef873c9773800f949887
