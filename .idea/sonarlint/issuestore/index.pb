@@ -1,8 +1,6 @@
 
 ]
 -src/main/java/codewars/kyu8/ReverseWords.java,e/4/e4317c73594cbae023ad28a3edb3e75d20cf01f1
-b
-2src/main/java/codewars/kyu7/EncapsulationDemo.java,8/3/83f5b736e1ec2792a607e2db2e017b04d3dcce67
 X
 (src/main/java/codewars/kyu7/Printer.java,2/4/2422ad4e1c6dfc3d9029508e8b3a605c61f1a343
 c
