@@ -143,3 +143,11 @@ e
 5src/test/java/codewars/kyu8/SumOfDifferencesTest.java,e/e/ee10495ccec759003e615fd2eb280d5089b2bf5a
 V
 &src/main/java/codewars/kyu8/ZywOo.java,f/9/f9ac9cc15173452c54ad595cfa0412ba04cc9c8e
+b
+2src/main/java/codewars/kyu7/EncapsulationDemo.java,8/3/83f5b736e1ec2792a607e2db2e017b04d3dcce67
+a
+1src/main/java/codewars/kyu8/CalculateAverage.java,b/5/b5368fe3994394881144927bf0ac2669354fc477
+e
+5src/test/java/codewars/kyu8/CalculateAverageTest.java,5/f/5f3e0053d58bad8ba964d070eedb2e051de3d86e
+h
+8src/main/java/leetcode/programming/skills1/Football.java,9/4/9452b300b7659778a862fe86cfb3e8e4105fda37
