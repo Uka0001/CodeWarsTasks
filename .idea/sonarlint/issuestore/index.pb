@@ -151,3 +151,5 @@ e
 5src/test/java/codewars/kyu8/CalculateAverageTest.java,5/f/5f3e0053d58bad8ba964d070eedb2e051de3d86e
 h
 8src/main/java/leetcode/programming/skills1/Football.java,9/4/9452b300b7659778a862fe86cfb3e8e4105fda37
+g
+7src/main/java/leetcode/programming/skills1/Planner.java,4/9/494736f8d4e4169cef0bf9d74f2c5f027eb99f19
